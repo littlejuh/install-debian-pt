@@ -1,2 +1,3 @@
-# install-debian-pt
-Script para instalar o debian
+# Debian script
+Execute o comando abaixo (com sudo):
+./install-debian.sh
